@@ -1,0 +1,30 @@
+/* button{
+    width: 200px;
+    height: 50px;
+}
+
+.render-area{
+    width: 400px;
+    margin: 100px auto;
+} */
+
+.row{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.first,.second,.third{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+h3{
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background-color: aqua;
+}
